@@ -24,16 +24,15 @@ I'm a Software Engineer with hands-on experience in full-stack web development, 
 - **Languages:** JavaScript, Python, Go, Rust  
 - **Frameworks & Stacks:** MERN (MongoDB, Express, React, Node), Actix, Pion  
 - **Cloud Platforms:** AWS (EC2, Lambda, CloudWatch, SES, CloudFront), Azure (Synapse Analytics, Data Factory, Data Lake)  
-- **Distributed Systems:** gRPC, OpenTelemetry, Docker, Kubernetes  
-- **Data Engineering:** ETL pipelines with Azure Synapse & Data Factory  
-- **Observability:** Tracing with Jaeger, Prometheus metrics, Grafana dashboards
+- **Distributed Systems:** Docker, Kubernetes, gRPC, OpenTelemetry   
+- **Data Engineering:** ETL pipelines with Azure Synapse Analytics
+- **Observability:** Tracing with Jaeger, Prometheus, Grafana dashboards
 
 ### 📌 Projects & Research:
 - 🛰️ Prototyping communication latencies in distributed automotive networks using Eclipse Kuksa  
 - 📦 Time manipulation in containerized environments with eBPF and libfaketime  
-- 📡 WebRTC broadcasting system using Pion & Prometheus metrics  
-- 📊 Vehicle data pipelines with CI/CD on Azure and AWS
+- 📡 WebRTC broadcasting system using Pion & monitoring using Prometheus and Grafana  
 
 Feel free to check out my repositories or connect with me for collaboration!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | 📫 Email: your.email@example.com
+🔗 [LinkedIn](https://www.linkedin.com/in/likhith-s-t-220191190) | 📫 Email: tolikhith@gmail.com
