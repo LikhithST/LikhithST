@@ -33,4 +33,4 @@ I'm a Software Engineer with hands-on experience in full-stack web development, 
 - 📦 Time manipulation in containerized environments with eBPF and libfaketime  
 - 📡 WebRTC broadcasting system using Pion & monitoring using Prometheus and Grafana  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/likhith-s-t-220191190) | 📫 Email: tolikhith@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/likhith-s-t-220191190) | 📫 Email: likhithsadahallithammegowda@gmail.com
